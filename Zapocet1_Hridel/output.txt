@@ -1,0 +1,8 @@
+KAZ,Kazakhstan,B,7,5,0,0,2,0,0,15
+SVK,Slovakia,B,7,5,0,0,2,0,0,15
+CAN,Canada,B,7,4,1,0,2,2,1,14
+SLO,Slovenia,B,7,4,0,1,2,12,13,13
+CZE,Czechia,B,7,4,0,0,3,0,0,12
+SUI,Switzerland,B,7,3,0,0,4,0,0,9
+LAT,Latvia,B,7,0,1,1,5,14,14,3
+NOR,Norway,B,7,1,0,0,6,0,0,3
